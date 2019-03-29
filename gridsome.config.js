@@ -9,9 +9,6 @@ module.exports = {
   plugins: [
       {
           use: 'gridsome-plugin-netlify-cms',
-          options: {
-              publicPath: '/cms'
-          }
       }
   ]
 }
