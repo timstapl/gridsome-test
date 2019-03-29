@@ -1,0 +1,14 @@
+{
+  "name": "gridsome-test",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.5.0",
+    "gridsome-plugin-netlify-cms": "^1.0.6",
+    "netlify-cms": "^2.8.0"
+  }
+}
